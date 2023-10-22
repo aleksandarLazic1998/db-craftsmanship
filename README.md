@@ -1,2 +1,0 @@
-# db-craftsmanship
-# db-craftsmanship
